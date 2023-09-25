@@ -1,5 +1,5 @@
 function isPlainObject(value) {
-  // Start coding here
+   return (typeof value === 'object')
 }
 
 // Example case
