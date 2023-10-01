@@ -1,4 +1,4 @@
-function isPlainObject(value) {
+function isPlainObject(value) {return (typeof value === 'object' )
   // Start coding here
 }
 
